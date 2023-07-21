@@ -1,0 +1,6 @@
+/.idea
+/.vscode
+/HashMap/.idea
+*.iml
+*.exe
+*.class
